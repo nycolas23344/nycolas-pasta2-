@@ -1,0 +1,18 @@
+
+
+
+:root{
+
+    --branco: white;
+    --cor-de-fundo: #00162e;
+    --fundo-de-senha:#00244d;
+    --fundo-de-texto:#001e40;
+    --borda:#0075FF;
+    --roboto: 'Roboto mono' monospace;
+
+    body{ 
+     color:var(--branco);
+
+
+
+}
